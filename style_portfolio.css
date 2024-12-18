@@ -1,0 +1,22 @@
+style_portfolio.css
+
+main{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+*{
+     margin:0;
+     padding:0;
+     box-sizing:border-box;
+     font-family: Arial, Helvetica, sans-serif;
+}
+.skills{
+    width: 500px;
+    padding: 40px;
+    border-radius: 20px;
+    background-color: rgb(110, 81, 43);
+    box-shadow: 0 15px 10px #000000;
+    list-style:none;
+    box-shadow: 5px 5px 10px blueviolet;
+}
